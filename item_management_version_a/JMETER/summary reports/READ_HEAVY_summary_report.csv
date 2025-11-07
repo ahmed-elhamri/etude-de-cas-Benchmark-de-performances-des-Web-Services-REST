@@ -1,0 +1,6 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+GET items list,5047,3637,200,11781,1556.61,0.000%,8.37966,108.29,1.21,13232.9
+GET categories list,1241,1427,14,6757,971.97,0.000%,2.07468,12.35,0.30,6095.0
+GET items by category ,2475,1704,3,10769,991.56,0.000%,4.13229,1.84,0.64,456.5
+GET items of category ,2465,1698,6,8474,924.66,0.000%,4.12145,1.77,0.64,441.0
+TOTAL,11228,2541,3,11781,1607.96,0.000%,18.64212,124.15,2.78,6819.3
